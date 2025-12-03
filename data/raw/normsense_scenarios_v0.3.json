@@ -1,0 +1,1125 @@
+{
+  "version": "v0.3",
+  "scenarios": [
+    {
+      "id": "SC001",
+      "text": "Your close friend messages you to say they have to cancel your dinner plans because they feel emotionally drained after a long week. What is a polite and respectful way to respond in this situation?",
+      "domain": "personal",
+      "norm_type": "politeness",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "personal, politeness, example 1"
+    },
+    {
+      "id": "SC002",
+      "text": "A sibling borrows your favorite jacket without asking and returns it with a noticeable stain on it. What is a polite and respectful way to respond in this situation?",
+      "domain": "personal",
+      "norm_type": "politeness",
+      "cultural_tag": "India",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "personal, politeness, example 2"
+    },
+    {
+      "id": "SC003",
+      "text": "You planned a small birthday gathering, but only one friend shows up on time while the others text that they are running very late. What is a polite and respectful way to respond in this situation?",
+      "domain": "personal",
+      "norm_type": "politeness",
+      "cultural_tag": "Japan",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "personal, politeness, example 3"
+    },
+    {
+      "id": "SC004",
+      "text": "A roommate has been leaving dirty dishes in the sink for days even though you had agreed to keep the kitchen tidy together. What is a polite and respectful way to respond in this situation?",
+      "domain": "personal",
+      "norm_type": "politeness",
+      "cultural_tag": "Brazil",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "personal, politeness, example 4"
+    },
+    {
+      "id": "SC005",
+      "text": "You notice that a friend who is usually very talkative has been unusually quiet in your group chat and cancels plans more often. What is a polite and respectful way to respond in this situation?",
+      "domain": "personal",
+      "norm_type": "politeness",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "personal, politeness, example 5"
+    },
+    {
+      "id": "SC006",
+      "text": "A friend makes a joke about you in front of others that hurts your feelings more than they seem to realize. What is a polite and respectful way to respond in this situation?",
+      "domain": "personal",
+      "norm_type": "politeness",
+      "cultural_tag": "India",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "personal, politeness, example 6"
+    },
+    {
+      "id": "SC007",
+      "text": "You lent money to a friend a few months ago, and they have not mentioned paying it back even though you know they recently made a big purchase. What is a polite and respectful way to respond in this situation?",
+      "domain": "personal",
+      "norm_type": "politeness",
+      "cultural_tag": "Japan",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "personal, politeness, example 7"
+    },
+    {
+      "id": "SC008",
+      "text": "Your close friend messages you to say they have to cancel your dinner plans because they feel emotionally drained after a long week. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "personal",
+      "norm_type": "empathy",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "personal, empathy, example 1"
+    },
+    {
+      "id": "SC009",
+      "text": "A sibling borrows your favorite jacket without asking and returns it with a noticeable stain on it. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "personal",
+      "norm_type": "empathy",
+      "cultural_tag": "India",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "personal, empathy, example 2"
+    },
+    {
+      "id": "SC010",
+      "text": "You planned a small birthday gathering, but only one friend shows up on time while the others text that they are running very late. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "personal",
+      "norm_type": "empathy",
+      "cultural_tag": "Japan",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "personal, empathy, example 3"
+    },
+    {
+      "id": "SC011",
+      "text": "A roommate has been leaving dirty dishes in the sink for days even though you had agreed to keep the kitchen tidy together. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "personal",
+      "norm_type": "empathy",
+      "cultural_tag": "Brazil",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "personal, empathy, example 4"
+    },
+    {
+      "id": "SC012",
+      "text": "You notice that a friend who is usually very talkative has been unusually quiet in your group chat and cancels plans more often. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "personal",
+      "norm_type": "empathy",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "personal, empathy, example 5"
+    },
+    {
+      "id": "SC013",
+      "text": "A friend makes a joke about you in front of others that hurts your feelings more than they seem to realize. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "personal",
+      "norm_type": "empathy",
+      "cultural_tag": "India",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "personal, empathy, example 6"
+    },
+    {
+      "id": "SC014",
+      "text": "You lent money to a friend a few months ago, and they have not mentioned paying it back even though you know they recently made a big purchase. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "personal",
+      "norm_type": "empathy",
+      "cultural_tag": "Japan",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "personal, empathy, example 7"
+    },
+    {
+      "id": "SC015",
+      "text": "Your close friend messages you to say they have to cancel your dinner plans because they feel emotionally drained after a long week. What response would best fit the social and cultural context in this situation?",
+      "domain": "personal",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "personal, contextual_fit, example 1"
+    },
+    {
+      "id": "SC016",
+      "text": "A sibling borrows your favorite jacket without asking and returns it with a noticeable stain on it. What response would best fit the social and cultural context in this situation?",
+      "domain": "personal",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "India",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "personal, contextual_fit, example 2"
+    },
+    {
+      "id": "SC017",
+      "text": "You planned a small birthday gathering, but only one friend shows up on time while the others text that they are running very late. What response would best fit the social and cultural context in this situation?",
+      "domain": "personal",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "Japan",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "personal, contextual_fit, example 3"
+    },
+    {
+      "id": "SC018",
+      "text": "A roommate has been leaving dirty dishes in the sink for days even though you had agreed to keep the kitchen tidy together. What response would best fit the social and cultural context in this situation?",
+      "domain": "personal",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "Brazil",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "personal, contextual_fit, example 4"
+    },
+    {
+      "id": "SC019",
+      "text": "You notice that a friend who is usually very talkative has been unusually quiet in your group chat and cancels plans more often. What response would best fit the social and cultural context in this situation?",
+      "domain": "personal",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "personal, contextual_fit, example 5"
+    },
+    {
+      "id": "SC020",
+      "text": "A friend makes a joke about you in front of others that hurts your feelings more than they seem to realize. What response would best fit the social and cultural context in this situation?",
+      "domain": "personal",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "India",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "personal, contextual_fit, example 6"
+    },
+    {
+      "id": "SC021",
+      "text": "You lent money to a friend a few months ago, and they have not mentioned paying it back even though you know they recently made a big purchase. What response would best fit the social and cultural context in this situation?",
+      "domain": "personal",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "Japan",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "personal, contextual_fit, example 7"
+    },
+    {
+      "id": "SC022",
+      "text": "Your close friend messages you to say they have to cancel your dinner plans because they feel emotionally drained after a long week. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "personal",
+      "norm_type": "mixed",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "personal, mixed, example 1"
+    },
+    {
+      "id": "SC023",
+      "text": "A sibling borrows your favorite jacket without asking and returns it with a noticeable stain on it. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "personal",
+      "norm_type": "mixed",
+      "cultural_tag": "India",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "personal, mixed, example 2"
+    },
+    {
+      "id": "SC024",
+      "text": "You planned a small birthday gathering, but only one friend shows up on time while the others text that they are running very late. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "personal",
+      "norm_type": "mixed",
+      "cultural_tag": "Japan",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "personal, mixed, example 3"
+    },
+    {
+      "id": "SC025",
+      "text": "A roommate has been leaving dirty dishes in the sink for days even though you had agreed to keep the kitchen tidy together. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "personal",
+      "norm_type": "mixed",
+      "cultural_tag": "Brazil",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "personal, mixed, example 4"
+    },
+    {
+      "id": "SC026",
+      "text": "You notice that a friend who is usually very talkative has been unusually quiet in your group chat and cancels plans more often. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "personal",
+      "norm_type": "mixed",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "personal, mixed, example 5"
+    },
+    {
+      "id": "SC027",
+      "text": "A friend makes a joke about you in front of others that hurts your feelings more than they seem to realize. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "personal",
+      "norm_type": "mixed",
+      "cultural_tag": "India",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "personal, mixed, example 6"
+    },
+    {
+      "id": "SC028",
+      "text": "You lent money to a friend a few months ago, and they have not mentioned paying it back even though you know they recently made a big purchase. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "personal",
+      "norm_type": "mixed",
+      "cultural_tag": "Japan",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "personal, mixed, example 7"
+    },
+    {
+      "id": "SC029",
+      "text": "During a team meeting, a coworker repeatedly interrupts you while you are trying to present your idea. What is a polite and respectful way to respond in this situation?",
+      "domain": "workplace",
+      "norm_type": "politeness",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "workplace, politeness, example 1"
+    },
+    {
+      "id": "SC030",
+      "text": "Your manager gives you critical feedback on a report you worked hard on, pointing out several mistakes in front of the team. What is a polite and respectful way to respond in this situation?",
+      "domain": "workplace",
+      "norm_type": "politeness",
+      "cultural_tag": "Germany",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "workplace, politeness, example 2"
+    },
+    {
+      "id": "SC031",
+      "text": "A new colleague from another country seems confused by some informal jokes your team often makes in group chats. What is a polite and respectful way to respond in this situation?",
+      "domain": "workplace",
+      "norm_type": "politeness",
+      "cultural_tag": "Japan",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "workplace, politeness, example 3"
+    },
+    {
+      "id": "SC032",
+      "text": "You notice that a coworker has been staying very late at the office and looks exhausted during meetings. What is a polite and respectful way to respond in this situation?",
+      "domain": "workplace",
+      "norm_type": "politeness",
+      "cultural_tag": "UK",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "workplace, politeness, example 4"
+    },
+    {
+      "id": "SC033",
+      "text": "A teammate misses an important deadline, which forces you to work extra hours to finish the project on time. What is a polite and respectful way to respond in this situation?",
+      "domain": "workplace",
+      "norm_type": "politeness",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "workplace, politeness, example 5"
+    },
+    {
+      "id": "SC034",
+      "text": "You receive an email from a senior leader that sounds brusque and slightly annoyed about a small oversight. What is a polite and respectful way to respond in this situation?",
+      "domain": "workplace",
+      "norm_type": "politeness",
+      "cultural_tag": "Germany",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "workplace, politeness, example 6"
+    },
+    {
+      "id": "SC035",
+      "text": "Two coworkers start arguing loudly over responsibilities in a shared online channel that the whole team can see. What is a polite and respectful way to respond in this situation?",
+      "domain": "workplace",
+      "norm_type": "politeness",
+      "cultural_tag": "Japan",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "workplace, politeness, example 7"
+    },
+    {
+      "id": "SC036",
+      "text": "During a team meeting, a coworker repeatedly interrupts you while you are trying to present your idea. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "workplace",
+      "norm_type": "empathy",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "workplace, empathy, example 1"
+    },
+    {
+      "id": "SC037",
+      "text": "Your manager gives you critical feedback on a report you worked hard on, pointing out several mistakes in front of the team. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "workplace",
+      "norm_type": "empathy",
+      "cultural_tag": "Germany",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "workplace, empathy, example 2"
+    },
+    {
+      "id": "SC038",
+      "text": "A new colleague from another country seems confused by some informal jokes your team often makes in group chats. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "workplace",
+      "norm_type": "empathy",
+      "cultural_tag": "Japan",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "workplace, empathy, example 3"
+    },
+    {
+      "id": "SC039",
+      "text": "You notice that a coworker has been staying very late at the office and looks exhausted during meetings. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "workplace",
+      "norm_type": "empathy",
+      "cultural_tag": "UK",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "workplace, empathy, example 4"
+    },
+    {
+      "id": "SC040",
+      "text": "A teammate misses an important deadline, which forces you to work extra hours to finish the project on time. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "workplace",
+      "norm_type": "empathy",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "workplace, empathy, example 5"
+    },
+    {
+      "id": "SC041",
+      "text": "You receive an email from a senior leader that sounds brusque and slightly annoyed about a small oversight. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "workplace",
+      "norm_type": "empathy",
+      "cultural_tag": "Germany",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "workplace, empathy, example 6"
+    },
+    {
+      "id": "SC042",
+      "text": "Two coworkers start arguing loudly over responsibilities in a shared online channel that the whole team can see. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "workplace",
+      "norm_type": "empathy",
+      "cultural_tag": "Japan",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "workplace, empathy, example 7"
+    },
+    {
+      "id": "SC043",
+      "text": "During a team meeting, a coworker repeatedly interrupts you while you are trying to present your idea. What response would best fit the social and cultural context in this situation?",
+      "domain": "workplace",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "workplace, contextual_fit, example 1"
+    },
+    {
+      "id": "SC044",
+      "text": "Your manager gives you critical feedback on a report you worked hard on, pointing out several mistakes in front of the team. What response would best fit the social and cultural context in this situation?",
+      "domain": "workplace",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "Germany",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "workplace, contextual_fit, example 2"
+    },
+    {
+      "id": "SC045",
+      "text": "A new colleague from another country seems confused by some informal jokes your team often makes in group chats. What response would best fit the social and cultural context in this situation?",
+      "domain": "workplace",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "Japan",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "workplace, contextual_fit, example 3"
+    },
+    {
+      "id": "SC046",
+      "text": "You notice that a coworker has been staying very late at the office and looks exhausted during meetings. What response would best fit the social and cultural context in this situation?",
+      "domain": "workplace",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "UK",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "workplace, contextual_fit, example 4"
+    },
+    {
+      "id": "SC047",
+      "text": "A teammate misses an important deadline, which forces you to work extra hours to finish the project on time. What response would best fit the social and cultural context in this situation?",
+      "domain": "workplace",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "workplace, contextual_fit, example 5"
+    },
+    {
+      "id": "SC048",
+      "text": "You receive an email from a senior leader that sounds brusque and slightly annoyed about a small oversight. What response would best fit the social and cultural context in this situation?",
+      "domain": "workplace",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "Germany",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "workplace, contextual_fit, example 6"
+    },
+    {
+      "id": "SC049",
+      "text": "Two coworkers start arguing loudly over responsibilities in a shared online channel that the whole team can see. What response would best fit the social and cultural context in this situation?",
+      "domain": "workplace",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "Japan",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "workplace, contextual_fit, example 7"
+    },
+    {
+      "id": "SC050",
+      "text": "During a team meeting, a coworker repeatedly interrupts you while you are trying to present your idea. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "workplace",
+      "norm_type": "mixed",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "workplace, mixed, example 1"
+    },
+    {
+      "id": "SC051",
+      "text": "Your manager gives you critical feedback on a report you worked hard on, pointing out several mistakes in front of the team. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "workplace",
+      "norm_type": "mixed",
+      "cultural_tag": "Germany",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "workplace, mixed, example 2"
+    },
+    {
+      "id": "SC052",
+      "text": "A new colleague from another country seems confused by some informal jokes your team often makes in group chats. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "workplace",
+      "norm_type": "mixed",
+      "cultural_tag": "Japan",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "workplace, mixed, example 3"
+    },
+    {
+      "id": "SC053",
+      "text": "You notice that a coworker has been staying very late at the office and looks exhausted during meetings. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "workplace",
+      "norm_type": "mixed",
+      "cultural_tag": "UK",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "workplace, mixed, example 4"
+    },
+    {
+      "id": "SC054",
+      "text": "A teammate misses an important deadline, which forces you to work extra hours to finish the project on time. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "workplace",
+      "norm_type": "mixed",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "workplace, mixed, example 5"
+    },
+    {
+      "id": "SC055",
+      "text": "You receive an email from a senior leader that sounds brusque and slightly annoyed about a small oversight. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "workplace",
+      "norm_type": "mixed",
+      "cultural_tag": "Germany",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "workplace, mixed, example 6"
+    },
+    {
+      "id": "SC056",
+      "text": "Two coworkers start arguing loudly over responsibilities in a shared online channel that the whole team can see. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "workplace",
+      "norm_type": "mixed",
+      "cultural_tag": "Japan",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "workplace, mixed, example 7"
+    },
+    {
+      "id": "SC057",
+      "text": "You are working at a cafe when a customer complains that their drink is wrong, even though the order printed on the receipt appears correct. What is a polite and respectful way to respond in this situation?",
+      "domain": "customer_service",
+      "norm_type": "politeness",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "customer_service, politeness, example 1"
+    },
+    {
+      "id": "SC058",
+      "text": "A customer in a clothing store becomes frustrated because an item they wanted is out of stock in their size. What is a polite and respectful way to respond in this situation?",
+      "domain": "customer_service",
+      "norm_type": "politeness",
+      "cultural_tag": "India",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "customer_service, politeness, example 2"
+    },
+    {
+      "id": "SC059",
+      "text": "You are handling a support chat where the customer writes in all capital letters about a delayed delivery. What is a polite and respectful way to respond in this situation?",
+      "domain": "customer_service",
+      "norm_type": "politeness",
+      "cultural_tag": "Middle_East",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "customer_service, politeness, example 3"
+    },
+    {
+      "id": "SC060",
+      "text": "A restaurant guest quietly tells you that there is a hair in their food and looks uncomfortable. What is a polite and respectful way to respond in this situation?",
+      "domain": "customer_service",
+      "norm_type": "politeness",
+      "cultural_tag": "UK",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "customer_service, politeness, example 4"
+    },
+    {
+      "id": "SC061",
+      "text": "A customer with limited English struggles to explain an issue with their phone plan at the service desk. What is a polite and respectful way to respond in this situation?",
+      "domain": "customer_service",
+      "norm_type": "politeness",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "customer_service, politeness, example 5"
+    },
+    {
+      "id": "SC062",
+      "text": "A regular customer appears unusually quiet and distracted while you are ringing up their purchase. What is a polite and respectful way to respond in this situation?",
+      "domain": "customer_service",
+      "norm_type": "politeness",
+      "cultural_tag": "India",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "customer_service, politeness, example 6"
+    },
+    {
+      "id": "SC063",
+      "text": "A customer becomes upset when you explain that you cannot override a company return policy for an item without a receipt. What is a polite and respectful way to respond in this situation?",
+      "domain": "customer_service",
+      "norm_type": "politeness",
+      "cultural_tag": "Middle_East",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "customer_service, politeness, example 7"
+    },
+    {
+      "id": "SC064",
+      "text": "You are working at a cafe when a customer complains that their drink is wrong, even though the order printed on the receipt appears correct. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "customer_service",
+      "norm_type": "empathy",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "customer_service, empathy, example 1"
+    },
+    {
+      "id": "SC065",
+      "text": "A customer in a clothing store becomes frustrated because an item they wanted is out of stock in their size. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "customer_service",
+      "norm_type": "empathy",
+      "cultural_tag": "India",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "customer_service, empathy, example 2"
+    },
+    {
+      "id": "SC066",
+      "text": "You are handling a support chat where the customer writes in all capital letters about a delayed delivery. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "customer_service",
+      "norm_type": "empathy",
+      "cultural_tag": "Middle_East",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "customer_service, empathy, example 3"
+    },
+    {
+      "id": "SC067",
+      "text": "A restaurant guest quietly tells you that there is a hair in their food and looks uncomfortable. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "customer_service",
+      "norm_type": "empathy",
+      "cultural_tag": "UK",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "customer_service, empathy, example 4"
+    },
+    {
+      "id": "SC068",
+      "text": "A customer with limited English struggles to explain an issue with their phone plan at the service desk. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "customer_service",
+      "norm_type": "empathy",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "customer_service, empathy, example 5"
+    },
+    {
+      "id": "SC069",
+      "text": "A regular customer appears unusually quiet and distracted while you are ringing up their purchase. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "customer_service",
+      "norm_type": "empathy",
+      "cultural_tag": "India",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "customer_service, empathy, example 6"
+    },
+    {
+      "id": "SC070",
+      "text": "A customer becomes upset when you explain that you cannot override a company return policy for an item without a receipt. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "customer_service",
+      "norm_type": "empathy",
+      "cultural_tag": "Middle_East",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "customer_service, empathy, example 7"
+    },
+    {
+      "id": "SC071",
+      "text": "You are working at a cafe when a customer complains that their drink is wrong, even though the order printed on the receipt appears correct. What response would best fit the social and cultural context in this situation?",
+      "domain": "customer_service",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "customer_service, contextual_fit, example 1"
+    },
+    {
+      "id": "SC072",
+      "text": "A customer in a clothing store becomes frustrated because an item they wanted is out of stock in their size. What response would best fit the social and cultural context in this situation?",
+      "domain": "customer_service",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "India",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "customer_service, contextual_fit, example 2"
+    },
+    {
+      "id": "SC073",
+      "text": "You are handling a support chat where the customer writes in all capital letters about a delayed delivery. What response would best fit the social and cultural context in this situation?",
+      "domain": "customer_service",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "Middle_East",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "customer_service, contextual_fit, example 3"
+    },
+    {
+      "id": "SC074",
+      "text": "A restaurant guest quietly tells you that there is a hair in their food and looks uncomfortable. What response would best fit the social and cultural context in this situation?",
+      "domain": "customer_service",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "UK",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "customer_service, contextual_fit, example 4"
+    },
+    {
+      "id": "SC075",
+      "text": "A customer with limited English struggles to explain an issue with their phone plan at the service desk. What response would best fit the social and cultural context in this situation?",
+      "domain": "customer_service",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "customer_service, contextual_fit, example 5"
+    },
+    {
+      "id": "SC076",
+      "text": "A regular customer appears unusually quiet and distracted while you are ringing up their purchase. What response would best fit the social and cultural context in this situation?",
+      "domain": "customer_service",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "India",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "customer_service, contextual_fit, example 6"
+    },
+    {
+      "id": "SC077",
+      "text": "A customer becomes upset when you explain that you cannot override a company return policy for an item without a receipt. What response would best fit the social and cultural context in this situation?",
+      "domain": "customer_service",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "Middle_East",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "customer_service, contextual_fit, example 7"
+    },
+    {
+      "id": "SC078",
+      "text": "You are working at a cafe when a customer complains that their drink is wrong, even though the order printed on the receipt appears correct. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "customer_service",
+      "norm_type": "mixed",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "customer_service, mixed, example 1"
+    },
+    {
+      "id": "SC079",
+      "text": "A customer in a clothing store becomes frustrated because an item they wanted is out of stock in their size. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "customer_service",
+      "norm_type": "mixed",
+      "cultural_tag": "India",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "customer_service, mixed, example 2"
+    },
+    {
+      "id": "SC080",
+      "text": "You are handling a support chat where the customer writes in all capital letters about a delayed delivery. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "customer_service",
+      "norm_type": "mixed",
+      "cultural_tag": "Middle_East",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "customer_service, mixed, example 3"
+    },
+    {
+      "id": "SC081",
+      "text": "A restaurant guest quietly tells you that there is a hair in their food and looks uncomfortable. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "customer_service",
+      "norm_type": "mixed",
+      "cultural_tag": "UK",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "customer_service, mixed, example 4"
+    },
+    {
+      "id": "SC082",
+      "text": "A customer with limited English struggles to explain an issue with their phone plan at the service desk. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "customer_service",
+      "norm_type": "mixed",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "customer_service, mixed, example 5"
+    },
+    {
+      "id": "SC083",
+      "text": "A regular customer appears unusually quiet and distracted while you are ringing up their purchase. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "customer_service",
+      "norm_type": "mixed",
+      "cultural_tag": "India",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "customer_service, mixed, example 6"
+    },
+    {
+      "id": "SC084",
+      "text": "A customer becomes upset when you explain that you cannot override a company return policy for an item without a receipt. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "customer_service",
+      "norm_type": "mixed",
+      "cultural_tag": "Middle_East",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "customer_service, mixed, example 7"
+    },
+    {
+      "id": "SC085",
+      "text": "You post an opinion about a movie on social media, and someone responds with a sarcastic comment that feels dismissive. What is a polite and respectful way to respond in this situation?",
+      "domain": "online_social",
+      "norm_type": "politeness",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "online_social, politeness, example 1"
+    },
+    {
+      "id": "SC086",
+      "text": "A friend messages you late at night saying they feel overwhelmed and are thinking about deactivating their social media accounts. What is a polite and respectful way to respond in this situation?",
+      "domain": "online_social",
+      "norm_type": "politeness",
+      "cultural_tag": "Japan",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "online_social, politeness, example 2"
+    },
+    {
+      "id": "SC087",
+      "text": "In a group chat, two people begin arguing about a sensitive political topic and the tone escalates quickly. What is a polite and respectful way to respond in this situation?",
+      "domain": "online_social",
+      "norm_type": "politeness",
+      "cultural_tag": "Global",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "online_social, politeness, example 3"
+    },
+    {
+      "id": "SC088",
+      "text": "You notice that a usually active online friend has not posted anything for weeks and has not responded to recent messages. What is a polite and respectful way to respond in this situation?",
+      "domain": "online_social",
+      "norm_type": "politeness",
+      "cultural_tag": "Cross_cultural",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "online_social, politeness, example 4"
+    },
+    {
+      "id": "SC089",
+      "text": "Someone leaves a negative but polite comment under your creative work saying they did not enjoy it. What is a polite and respectful way to respond in this situation?",
+      "domain": "online_social",
+      "norm_type": "politeness",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "online_social, politeness, example 5"
+    },
+    {
+      "id": "SC090",
+      "text": "A friend shares a personal story publicly that includes details about you that you did not realize they would reveal. What is a polite and respectful way to respond in this situation?",
+      "domain": "online_social",
+      "norm_type": "politeness",
+      "cultural_tag": "Japan",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "online_social, politeness, example 6"
+    },
+    {
+      "id": "SC091",
+      "text": "You see a post where a younger relative is being teased in the comments by their classmates. What is a polite and respectful way to respond in this situation?",
+      "domain": "online_social",
+      "norm_type": "politeness",
+      "cultural_tag": "Global",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "online_social, politeness, example 7"
+    },
+    {
+      "id": "SC092",
+      "text": "You post an opinion about a movie on social media, and someone responds with a sarcastic comment that feels dismissive. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "online_social",
+      "norm_type": "empathy",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "online_social, empathy, example 1"
+    },
+    {
+      "id": "SC093",
+      "text": "A friend messages you late at night saying they feel overwhelmed and are thinking about deactivating their social media accounts. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "online_social",
+      "norm_type": "empathy",
+      "cultural_tag": "Japan",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "online_social, empathy, example 2"
+    },
+    {
+      "id": "SC094",
+      "text": "In a group chat, two people begin arguing about a sensitive political topic and the tone escalates quickly. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "online_social",
+      "norm_type": "empathy",
+      "cultural_tag": "Global",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "online_social, empathy, example 3"
+    },
+    {
+      "id": "SC095",
+      "text": "You notice that a usually active online friend has not posted anything for weeks and has not responded to recent messages. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "online_social",
+      "norm_type": "empathy",
+      "cultural_tag": "Cross_cultural",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "online_social, empathy, example 4"
+    },
+    {
+      "id": "SC096",
+      "text": "Someone leaves a negative but polite comment under your creative work saying they did not enjoy it. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "online_social",
+      "norm_type": "empathy",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "online_social, empathy, example 5"
+    },
+    {
+      "id": "SC097",
+      "text": "A friend shares a personal story publicly that includes details about you that you did not realize they would reveal. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "online_social",
+      "norm_type": "empathy",
+      "cultural_tag": "Japan",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "online_social, empathy, example 6"
+    },
+    {
+      "id": "SC098",
+      "text": "You see a post where a younger relative is being teased in the comments by their classmates. What is an empathetic way to respond that acknowledges the other person's feelings?",
+      "domain": "online_social",
+      "norm_type": "empathy",
+      "cultural_tag": "Global",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "online_social, empathy, example 7"
+    },
+    {
+      "id": "SC099",
+      "text": "You post an opinion about a movie on social media, and someone responds with a sarcastic comment that feels dismissive. What response would best fit the social and cultural context in this situation?",
+      "domain": "online_social",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "online_social, contextual_fit, example 1"
+    },
+    {
+      "id": "SC100",
+      "text": "A friend messages you late at night saying they feel overwhelmed and are thinking about deactivating their social media accounts. What response would best fit the social and cultural context in this situation?",
+      "domain": "online_social",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "Japan",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "online_social, contextual_fit, example 2"
+    },
+    {
+      "id": "SC101",
+      "text": "In a group chat, two people begin arguing about a sensitive political topic and the tone escalates quickly. What response would best fit the social and cultural context in this situation?",
+      "domain": "online_social",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "Global",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "online_social, contextual_fit, example 3"
+    },
+    {
+      "id": "SC102",
+      "text": "You notice that a usually active online friend has not posted anything for weeks and has not responded to recent messages. What response would best fit the social and cultural context in this situation?",
+      "domain": "online_social",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "Cross_cultural",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "online_social, contextual_fit, example 4"
+    },
+    {
+      "id": "SC103",
+      "text": "Someone leaves a negative but polite comment under your creative work saying they did not enjoy it. What response would best fit the social and cultural context in this situation?",
+      "domain": "online_social",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "online_social, contextual_fit, example 5"
+    },
+    {
+      "id": "SC104",
+      "text": "A friend shares a personal story publicly that includes details about you that you did not realize they would reveal. What response would best fit the social and cultural context in this situation?",
+      "domain": "online_social",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "Japan",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "online_social, contextual_fit, example 6"
+    },
+    {
+      "id": "SC105",
+      "text": "You see a post where a younger relative is being teased in the comments by their classmates. What response would best fit the social and cultural context in this situation?",
+      "domain": "online_social",
+      "norm_type": "contextual_fit",
+      "cultural_tag": "Global",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "online_social, contextual_fit, example 7"
+    },
+    {
+      "id": "SC106",
+      "text": "You post an opinion about a movie on social media, and someone responds with a sarcastic comment that feels dismissive. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "online_social",
+      "norm_type": "mixed",
+      "cultural_tag": "US",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "online_social, mixed, example 1"
+    },
+    {
+      "id": "SC107",
+      "text": "A friend messages you late at night saying they feel overwhelmed and are thinking about deactivating their social media accounts. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "online_social",
+      "norm_type": "mixed",
+      "cultural_tag": "Japan",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "online_social, mixed, example 2"
+    },
+    {
+      "id": "SC108",
+      "text": "In a group chat, two people begin arguing about a sensitive political topic and the tone escalates quickly. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "online_social",
+      "norm_type": "mixed",
+      "cultural_tag": "Global",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "online_social, mixed, example 3"
+    },
+    {
+      "id": "SC109",
+      "text": "You notice that a usually active online friend has not posted anything for weeks and has not responded to recent messages. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "online_social",
+      "norm_type": "mixed",
+      "cultural_tag": "Cross_cultural",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "online_social, mixed, example 4"
+    },
+    {
+      "id": "SC110",
+      "text": "Someone leaves a negative but polite comment under your creative work saying they did not enjoy it. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "online_social",
+      "norm_type": "mixed",
+      "cultural_tag": "US",
+      "stakes_level": "moderate",
+      "prompt_source": "original",
+      "notes": "online_social, mixed, example 5"
+    },
+    {
+      "id": "SC111",
+      "text": "A friend shares a personal story publicly that includes details about you that you did not realize they would reveal. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "online_social",
+      "norm_type": "mixed",
+      "cultural_tag": "Japan",
+      "stakes_level": "high",
+      "prompt_source": "original",
+      "notes": "online_social, mixed, example 6"
+    },
+    {
+      "id": "SC112",
+      "text": "You see a post where a younger relative is being teased in the comments by their classmates. How could you respond in a way that balances politeness, empathy, and practical clarity?",
+      "domain": "online_social",
+      "norm_type": "mixed",
+      "cultural_tag": "Global",
+      "stakes_level": "low",
+      "prompt_source": "original",
+      "notes": "online_social, mixed, example 7"
+    }
+  ]
+}
